@@ -1,0 +1,15 @@
+.calculator{
+  border: 1px solid rgb(82, 73, 73);
+  width: 200px;
+  border-radius: 5px;
+  background-color: mediumaquamarine;
+  padding: 20px;
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  
+  
+}
+
